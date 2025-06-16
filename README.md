@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi!<br><br>I really like creating / learning new stuff with JavaScript :D
 
 
