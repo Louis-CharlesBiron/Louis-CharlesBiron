@@ -1,5 +1,5 @@
 # About Me:
-Hi!<br><br>I really like creating / learning new stuff with JavaScript :D
+Hey!<br><br>I really like creating / learning new stuff with JavaScript :D
 
 
 ## 🌐 Socials:
