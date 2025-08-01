@@ -23,6 +23,8 @@ Hey!<br><br>I really like creating / learning new stuff with JavaScript :D
 ¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹¹
 ```
 
+### Here is a link to [my Website!](https://louis-charlesbiron.github.io/LCB/) Go check it out :D
+
 # Biggest projects
 
 ### *CanvasDotEffect* :
